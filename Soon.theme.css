@@ -25,7 +25,7 @@ Do NOT modify this file if you dont know what youre doing.
  * Main Source File 
  * DON'T REMOVE!
 */
-@import url("https://satanadesigns.github.io/soon/main/soon.css");
+@import url("https://github.com/idiotonline/soondisctheme4me/blob/main/main/soon.css");
 @import url("https://satanadesigns.github.io/soon/main/extra/palette.css");
 
 
@@ -39,7 +39,7 @@ Do NOT modify this file if you dont know what youre doing.
  * Replaces Emojis
  * Delete this @import if you want the regular discord emojis (Docs coming soon (maybe))
 */
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);
+
 
 :root {
   /* Banners (modifiable!) */
